@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Marcus Yong.
-- 👀 I’m interested in C++ and computer graphics
-- 🌱 I’m currently learning how to make game engines and weird GUI apps.
+🌱 Currently learning how to make good new things.
 
 <!---
 marcusyqy/marcusyqy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
