@@ -1,4 +1,4 @@
-🌱 Currently learning how to make good new things.
+🌱 I write code.
 
 <!---
 marcusyqy/marcusyqy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
